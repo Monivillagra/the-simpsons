@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Lisa",
+        "lastName": "Simpson",
+        "age": 10,
+        "parent": [
+            "Homer",
+            "Marge "
+        ],
+        "hair": "blond",
+        "check": true,
+        "icon": "simpsonsIcons lisa",
+        "image": "https://i.pinimg.com/736x/b0/88/e5/b088e5db6b560a33fc20e666a46263b3.jpg"
+    },
+    {
+        "name": "Bart",
+        "lastName": "Simpson",
+        "age": 9,
+        "parent": [
+            "Homer",
+            "Marge "
+        ],
+        "hair": "blond",
+        "check": false,
+        "icon": "simpsonsIcons bart "
+    },
+    {
+        "name": "Maggie",
+        "lastName": "Simpson",
+        "age": 2,
+        "parent": [
+            "Homer",
+            "Marge "
+        ],
+        "hair": "black",
+        "comprobado": true,
+        "image": "https://static.wikia.nocookie.net/lossimpson/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100530014756&path-prefix=es"
+    },
+    {
+        "name": "Patty",
+        "lastName": "Bouvier",
+        "age": 37,
+        "parent": [
+            "Jacqueline "
+        ],
+        "hair": "blond",
+        "comprobado": true
+    },
+    {
+        "nombre": "Selma",
+        "lastName": "Bouvier",
+        "edad": 38,
+        "padre": [
+            "Jacqueline "
+        ],
+        "cabello": "rubio",
+        "comprobado": false,
+        "image": "https://w7.pngwing.com/pngs/374/208/png-transparent-patty-bouvier-selma-bouvier-marge-simpson-homer-simpson-bart-simpson-bart-simpson-cartoon-fictional-character-simpsons-movie-thumbnail.png"
+    },
+    {
+        "nombre": "Rod",
+        "lastName": "Flanders",
+        "edad": 9,
+        "padre": [
+            "Ned "
+        ],
+        "cabello": "rubio",
+        "comprobado": true
+    }
+]

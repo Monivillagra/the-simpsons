@@ -1,0 +1,785 @@
+[
+  {
+    " temporada ": 1,
+    " episodio ": 1,
+    " name ": "Los Simpson asando a fuego abierto ",
+    " valoración ": 8.2,
+    " description ": " Cuando Homer no recibe ningún bono de vacaciones, espera ganar dinero extra convirtiéndose en un Mall Santa, en un intento de llevar a la familia unas felices vacaciones ",
+    " airDate ": " 1990-09-01T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BZGZjNzZhNzAtYTZjNi00YjU4LWI0NTYtNjZmYWNkYTA2YzY3XkEyXkFqcGdeQXVyMJ00.j200.DA_CR_02,05MjYWND_PG "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 2,
+    " nombre ": " Bart el genio ",
+    " valoración ": 7.8,
+    " description ": " Bart termina en una escuela para niños superdotados después de hacer trampa en una prueba de CI ",
+    " airDate ": " 1990-01-14T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4OTI5MDM0OV5BMl5BanBnXkFtZTgwNTE1NjQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 3,
+    " name ": " Homer's Odyssey ",
+    " valoración ": 7.4,
+    " description ": " Mientras la clase de Bart está recorriendo la planta de energía en una excursión, Homer choca un carro contra una tubería radiactiva. Como consecuencia, la planta se ve obligada a cerrar y Homer pierde su trabajo. ",
+    " airDate ": " 1990-01-21T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1MjQ0Njg1MF5BMl5BanBnXkFtZTgwMzg2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 4,
+    " name ": " No hay desgracia como el hogar ",
+    " valoración ": 7.8,
+    " description ": " Después de ser avergonzado por el resto de la familia en un picnic de la empresa, Homer se obsesiona con mejorar su comportamiento hacia los demás ",
+    " airDate ": " 1990-01-28T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNzMwODQzMTQ4N15BMl5BanBnXkFtZTgwODU1NjQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 5,
+    " nombre ": " Bart el general ",
+    " calificación ": 8.1,
+    " description ": " Después de haber sido golpeado por Nelson Muntz demasiadas veces, Bart recurre al abuelo en busca de ayuda y pronto lidera una rebelión contra el matón de la escuela ",
+    " airDate ": " 1990-02-04T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNjkzMjAzMzc4NF5BMl5BanBnXkFtZTgwNDY2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 6,
+    " name ": " Lisa gimiendo ",
+    " valoración ": 7.6,
+    " description ": " El espíritu de Lisa deprimido se levanta cuando conoce a un hombre de jazz, Bleeding Gums Murphy. ",
+    " airDate ": " 1990-02-11T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjg5MjA2NzcwM15BMl5BanBnXkFtZTgwMjY2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 7,
+    " name ": " La llamada de los Simpson ",
+    " valoración ": 7.9,
+    " description ": " Celoso del nuevo RV de Ned Flanders, Homer compra uno propio, pero el viaje de la familia al desierto pronto se tuerce. ",
+    " airDate ": " 1990-09-01T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BODAwNzM5OTk1OV5BMl5BanBnXkFtZTgwMDY1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 8,
+    " name ": " La cabeza delatora ",
+    " calificación ": 7.7,
+    " description ": " Bart obtiene más de lo que esperaba cuando corta la cabeza de una estatua del fundador de la ciudad. ",
+    " airDate ": " 1990-02-25T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMzY0MTA2Nl5BMl5BanBnXkFtZTgwNjU1NjQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 9,
+    " name ": "La vida en el carril rápido ",
+    " calificación ": 7.5,
+    " description ": " Marge contempla una aventura con un guapo instructor de bolos. ",
+    " airDate ": " 1990-03-18T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NDM4Njk0MF5BMl5BanBnXkFtZTgwOTExNDE1NTE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 10,
+    " name ": " Noche de fiesta de Homer ",
+    " valoración ": 7.4,
+    " description ": " Después de que una fotografía de Homer besuqueándose con una bailarina exótica se distribuye por todo Springfield, Marge lo expulsa de la casa. ",
+    " airDate ": " 1990-03-25T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NzU0MjY1OF5BMl5BanBnXkFtZTgwNTE4NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 11,
+    " name ": " Las crepes de la ira ",
+    " valoración ": 7.8,
+    " Descripción ": " Después de otra de las bromas de Bart en la escuela, el director Skinner sugiere que participan en un programa de intercambio de estudiantes Sin embargo, es enviado a Francia y obligado a trabajar todas las horas en un viñedo, con pocas posibilidades de escapar.. ",
+    " airDate ": " 1990-04-14T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMDIwMTM4NF5BMl5BanBnXkFtZTgwMzU1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 12,
+    " name ": " Krusty es arrestado ",
+    " valoración ": 8.3,
+    " description ": " Homer es testigo de un robo en el Kwik-E-Mart, donde el culpable es un hombre vestido como el héroe de Bart, Krusty el Payaso. ¿Pero hay más de lo que parece? ",
+    " airDate ": " 1990-04-28T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMTA0MjY5NV5BMl5BanBnXkFtZTgwOTk2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 1,
+    " episodio ": 13,
+    " name ": " Alguna noche encantada ",
+    " valoración ": 7.9,
+    " description ": " Homer y Marge disfrutan de una noche en la ciudad, mientras los niños tratan con una niñera diabólica, con un secreto sorprendente ",
+    " airDate ": " 1990-05-12T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjU5NjQzNF5BMl5BanBnXkFtZTgwMjA2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 1,
+    " name ": " Bart obtiene una F ",
+    " valoración ": 8.2,
+    " description ": "La Sra. Krabappel se cansa del enfoque indiferente de Bart hacia sus estudios. Después de que él se abre camino a través del informe de un libro y falla un examen de historia, ella le da un ultimátum: ponte en forma o repite el cuarto grado. ",
+    " airDate ": " 1990-10-10T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjA1ODUyNV5BMl5BanBnXkFtZTgwNjk5ODQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 2,
+    " name ": " Simpson y Delilah ",
+    " valoración ": 8.3,
+    " description ": " Homer miente en un formulario de seguro médico para obtener un medicamento milagroso para restaurar el cabello ",
+    " airDate ": " 1990-10-17T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNjE1MDY0MDc0NV5BMl5BanBnXkFtZTgwODQ1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 3,
+    " name ": " Treehouse of Horror I ",
+    " valoración ": 8.2,
+    " description ": " Los Simpson se mudan a una casa maldita, luego son secuestrados por extraterrestres, antes de que Homer se instale en un cuento de Edgar Allen Poe. ",
+    " airDate ": " 1990-10-24T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwODcyOTUwMl5BMl5BanBnXkFtZTgwMjIxNDE1NTE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 4,
+    " name ": " Dos autos en cada garaje y tres ojos en cada pez ",
+    " calificación ": 8.1,
+    " description ": " Después de que la planta de energía recibe mala publicidad y se amenaza con el cierre, el Sr. Burns decide postularse para gobernador para tener poder sobre la ley ",
+    " airDate ": " 1990-11-01T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4MzkwNzY3MF5BMl5BanBnXkFtZTgwMDcyNjQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 5,
+    " name ": " Dancin 'Homer ",
+    " calificación ": 7.5,
+    " description ": " Los abucheos de Homer al equipo de béisbol Springfield Isotopes durante uno de sus juegos lo llevan inadvertidamente a su nombramiento como la nueva mascota del equipo ",
+    " airDate ": " 1990-11-08T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NzczMzU4N15BMl5BanBnXkFtZTgwNDI3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 6,
+    " name ": " Dead Putting Society ",
+    " valoración ": 8,
+    " description ": " En un intento de mostrar a Ned Flanders, Homer enfrenta a Bart contra el hijo de Ned, Todd, en una competencia de golf en miniatura. ",
+    " airDate ": " 1990-11-15T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MTkzMDA1NV5BMl5BanBnXkFtZTgwNjUzMzQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 7,
+    " name ": " Bart vs. Acción de Gracias ",
+    " calificación ": 7.7,
+    " description ": " El Día de Acción de Gracias, Bart se pelea con la familia y se escapa de casa, antes de compartir una cena de pavo con un grupo de personas sin hogar en un comedor de beneficencia y aprender el verdadero significado de la festividad en el proceso. ",
+    " airDate ": " 1990-11-22T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNDY2ODU2MTA1NV5BMl5BanBnXkFtZTgwNjM3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 8,
+    " name ": " Bart the Daredevil ",
+    " calificación ": 8.4,
+    " description ": " Después de ver a un temerario en motocicleta en un show de camiones monstruo, Bart se convierte en un patinador temerario que desafía a la muerte ",
+    " airDate ": " 1990-12-06T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxNTIyNjI5MV5BMl5BanBnXkFtZTgwNDUzMzQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 9,
+    " name ": " Itchy and Scratchy and Marge ",
+    " calificación ": 8.1,
+    " description ": " Marge se convierte en una cruzada contra la violencia de las caricaturas después de ver The Itchy and Scratchy Show ",
+    " airDate ": " 1990-12-20T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5MTc0MTM1NV5BMl5BanBnXkFtZTgwOTI3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 10,
+    " name ": " Bart es atropellado por un coche ",
+    " valoración ": 7.8,
+    " description ": " Mientras anda en patineta por la calle, Bart es atropellado por un automóvil conducido por el Sr. Burns. Homer rechaza la oferta simbólica del Sr. Burns de $ 100 y, en cambio, contrata al cazador de ambulancias Lionel Hutz para presentar una demanda escandalosa contra el millonario. ",
+    " airDate ": " 1991-01-10T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTM4OTUxM15BMl5BanBnXkFtZTgwMzcyNjQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 11,
+    " name ": " Un pez, dos peces, pez globo, pez azul ",
+    " calificación ": 8.8,
+    " description ": " Después de aparentemente consumir pez globo venenoso, le dicen a Homer que solo le quedan 24 horas de vida ",
+    " airDate ": " 1991-01-24T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MjMzODUwNV5BMl5BanBnXkFtZTcwOTI2NjM0OA@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 12,
+    " name ": " La forma en que éramos ",
+    " valoración ": 8.2,
+    " description ": " Homer y Marge cuentan la historia de cómo se conocieron y se enamoraron en la escuela secundaria ",
+    " airDate ": " 1991-01-31T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NzQ1MzQyNl5BMl5BanBnXkFtZTgwMDk0NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 13,
+    " name ": " Homer contra Lisa y el octavo mandamiento ",
+    " valoración ": 8,
+    " description ": " Homer consigue que un tipo torcido del cable instale un cable gratis en la casa de los Simpson y, como resultado, Lisa enfrenta una crisis ética por el robo de su familia ",
+    " airDate ": " 1991-02-07T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MzQ1OTQ2OF5BMl5BanBnXkFtZTgwMDczNDE1NTE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 14,
+    " name ": " Principal encantador ",
+    " calificación ": 7.5,
+    " description ": " Después de asistir a la boda de un compañero de trabajo, Selma comienza a temer que morirá sola. Sin embargo, cuando Homer intenta tenderle una trampa al director Skinner, se enamora de Patty ",
+    " airDate ": " 1991-02-14T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NzA1MzExMV5BMl5BanBnXkFtZTgwNTUzMzQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 15,
+    " name ": " Oh hermano, ¿dónde estás? ",
+    " valoración ": 8.2,
+    " description ": " Después de que el abuelo es hospitalizado, él revela que Homer tiene un medio hermano, y la familia pronto descubre que el hermano, llamado Herb, es dueño de una compañía de automóviles. Sin embargo, la contratación de Herb de Homer para diseñar un auto nuevo puede ser su perdición. . ",
+    " airDate ": " 1991-02-21T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MzcyNTM4Nl5BMl5BanBnXkFtZTgwNjc1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 16,
+    " name ": " El perro de Bart obtiene una F ",
+    " calificación ": 7.5,
+    " description ": " Después de que el pequeño ayudante de Santa incontrolable destruye varias posesiones importantes de los Simpson, Homer anuncia que será expulsado de la casa a menos que complete el entrenamiento de obediencia. ",
+    " airDate ": " 1991-03-07T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NDcwMDY0NF5BMl5BanBnXkFtZTgwMjY3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 17,
+    " name ": " Dinero antiguo ",
+    " valoración ": 7.6,
+    " description ": " Después de que la nueva novia del abuelo muere y le deja $ 106,000 en su testamento, él intenta decidir qué hacer con él ",
+    " airDate ": " 1991-03-28T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BODExMDU0OTU0MV5BMl5BanBnXkFtZTgwNDQ1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 18,
+    " name ": " Pincelar con grandeza ",
+    " valoración ": 8,
+    " description ": " Después de quedar atrapado en un tobogán de agua, Homer decide ponerse a dieta, mientras que Marge se inscribe en una clase de arte y pronto recibe el encargo de pintar un retrato del Sr. Burns. ",
+    " airDate ": " 1991-04-10T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MjI5NDQ2Ml5BMl5BanBnXkFtZTgwMzc3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 19,
+    " name ": " Sustituto de Lisa ",
+    " calificación ": 8.5,
+    " description ": " Lisa está enamorada de su maestro sustituto, que aparentemente representa todo lo que Homer no es. Mientras tanto, Bart decide postularse para presidente de la clase y se convierte en el gran favorito ",
+    " airDate ": " 1991-04-24T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1NTk0OTY4OV5BMl5BanBnXkFtZTgwMzY2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 20,
+    " name ": " La guerra de los Simpson ",
+    " valoración ": 7.9,
+    " description ": " Homer debe decidir qué es más importante: completar el asesoramiento para salvar su matrimonio o saltarse para pescar un bagre legendario. Mientras tanto, en casa, Bart y Lisa se aprovechan de la ignorancia del abuelo de las reglas de la casa ",
+    " airDate ": " 1991-05-01T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNjc4MzQyMl5BMl5BanBnXkFtZTgwNzE4MzQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 21,
+    " name ": " Tres hombres y un cómic ",
+    " calificación ": 8.4,
+    " description ": " Bart, Milhouse y Martin colaboran cada uno para comprar un libro de historietas caro, que pronto tiene un efecto desastroso en su amistad. ",
+    " airDate ": " 1991-05-08T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5NzQ2MzU2Nl5BMl5BanBnXkFtZTgwNTA1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 2,
+    " episodio ": 22,
+    " name ": " Blood Feud ",
+    " valoración ": 8,
+    "description": "Bart saves Mr. Burns's life. But Homer becomes enraged when Mr. Burns doesn't return the favor by sending the Simpsons what he considers to be an appropriate \"thank you\" gift.",
+    "airDate": "1991-08-10T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5Mjc0MDIyN15BMl5BanBnXkFtZTgwMTUzMzQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 1,
+    " name ": " Stark Raving Dad ",
+    " valoración ": 8.6,
+    " description ": " Homer aterriza accidentalmente en un hospital psiquiátrico y termina compartiendo habitación con un hombre blanco que cree que es Michael Jackson. ",
+    " airDate ": " 1991-09-18T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3MTE2OTE4NV5BMl5BanBnXkFtZTgwMzQ1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 2,
+    " name ": "El Sr. Lisa va a Washington ",
+    " calificación ": 7.7,
+    " Descripción ": ". Lisa entra en un concurso y gana un viaje a Washington DC para toda la familia vez allí, se descubre la corrupción y decide exponer el funcionario corrupto ",
+    "airDate": "1991-09-25T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwOTAwNzA5NV5BMl5BanBnXkFtZTgwNzA2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 3,
+    "name": "When Flanders Failed",
+    "rating": 8.2,
+    "description": "Ned Flanders opens a mall store catering to lefties. Homer, however, wishes Flanders would fail.",
+    " airDate ": " 1991-10-02T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDI4MjE4N15BMl5BanBnXkFtZTgwMDQwOTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 4,
+    " name ": " Bart el asesino ",
+    " valoración ": 8.7,
+    " description ": " Bart se tropieza con el jefe de la mafia local y comienza a trabajar para él. Cuando el director Skinner desaparece después de castigar a Bart, se sospecha que él y la pandilla de Fat Tony lo mataron, pero intentan que Bart se lleve el rap. ",
+    " airDate ": " 1991-10-09T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDAwMzY2Ml5BMl5BanBnXkFtZTgwODE3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 5,
+    " name ": " Homer definido ",
+    " calificación ": 8.5,
+    " description ": " Homer es un héroe después de evitar un colapso nuclear que estuvo a punto de causar, pero no quiere decirle a nadie que lo detuvo por completo por accidente ",
+    " airDate ": " 1991-10-16T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MDc3NjY1N15BMl5BanBnXkFtZTgwMTY3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 6,
+    " name ": " Como padre, como payaso ",
+    " calificación ": 7.7,
+    "description": "When the Simpsons have Krusty the Clown over for dinner, he says grace in Hebrew, and recalls his difficult relationship with his father, a rabbi. Bart and Lisa try to reunite the two of them.",
+    "airDate": "1991-10-23T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4OTc3MTk1Ml5BMl5BanBnXkFtZTgwMjU3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    " episodio ": 7,
+    " name ": " Treehouse of Horror II ",
+    " valoración ": 8.2,
+    " description ": " La familia Simpson recibe una pata de mono cortada que puede conceder deseos, Bart obtiene poderes mágicos que usa para convertir a Homer en un Jack-in-the-box, y el Sr. Burns usa el cerebro de Homer para crear un robot. ",
+    " airDate ": " 1991-10-31T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMzkwNjQyMTM3NV5BMl5BanBnXkFtZTgwOTMzNDE1NTE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 8,
+    " name ": " Lisa's Pony ",
+    " valoración ": 7.9,
+    "description": "After ruining Lisa's performance at the school talent show, Homer tries to make it up by buying her a pony.",
+    "airDate": "1991-11-07T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3MTYxMDM0NV5BMl5BanBnXkFtZTgwOTg2NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 9,
+    " name ": " Sábados del Trueno ",
+    " valoración ": 7.9,
+    " Descripción ": ". Después de Homer falla una prueba de paternidad, él decide ayudar a Bart a construir su corredor Soap Box Derby Pero Bart vertederos de Homer y su corredor después de vehículo muy superior de Martin de repente se vuelve disponible ",
+    " airDate ": " 1991-11-14T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0MTI3MTc4NV5BMl5BanBnXkFtZTgwOTE5NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 10,
+    " name ": " Flaming Moe's ",
+    " calificación ": 8.8,
+    " description ": " Moe afirma que una bebida que inventó Homer es suya. Después de que la bebida convierte al bar en un lugar de moda local, Moe gana varios amigos de buen tiempo pero pierde la amistad de Homer. ",
+    " airDate ": " 1991-11-21T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNTIzNTI1NDI1MV5BMl5BanBnXkFtZTgwMTc3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    "episode": 11,
+    "name": "Burns Verkaufen der Kraftwerk",
+    "rating": 8.2,
+    "description": "Burns decides to retire and sells the power plant to a German consortium for an exorbitant price. Homer's laziness and inefficiency are quickly exposed by his new bosses, and he is laid off.",
+    "airDate": "1991-12-05T00:00:00.000Z",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNTQwODc0Mjc0Ml5BMl5BanBnXkFtZTgwNDI0NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 12,
+    " name ": " Me casé con Marge ",
+    " valoración ": 8.2,
+    " description ": " Mientras Marge va al médico para una prueba de embarazo, Homer les cuenta a los niños los eventos que llevaron a su matrimonio y al nacimiento de Bart. ",
+    " airDate ": " 1991-12-26T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NDI1ODUzOF5BMl5BanBnXkFtZTgwOTk4NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 13,
+    " nombre ": " Radio Bart ",
+    " calificación ": 8.5,
+    "description": "After Bart receives a microphone which can transmit through radios, he decides to pull a series of pranks and eventually convinces the town that a boy has fallen down a well.",
+    "airDate": "1992-01-09T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMjAwMzAwNV5BMl5BanBnXkFtZTgwMDIxNDE1NTE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    " episodio ": 14,
+    " name ": " Lisa la griega ",
+    " valoración ": 7.9,
+    " description ": " Homer usa a Lisa (y sus habilidades de pronóstico) para ayudarlo a apostar en los partidos de fútbol. ",
+    " airDate ": " 1992-01-23T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMzMwMzk2OF5BMl5BanBnXkFtZTgwMjA5NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 15,
+    " name ": " Homer Alone ",
+    " valoración ": 8,
+    " description ": " Mientras Marge pasa un par de días en Rancho Relaxo después de un colapso, Bart y Lisa se quedan con Patty y Selma, y ??Homer se queda en casa para cuidar a Maggie. ",
+    " airDate ": " 1992-02-06T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNzc1MTQ0Ml5BMl5BanBnXkFtZTgwNTA5NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 16,
+    " name ": " Bart the Lover ",
+    " valoración ": 8.3,
+    " Descripción ": " Después de la señora Krabappel da Bart de un mes de detención, que se venga al responder a ella escoge el periódico Mientras tanto, Marge Homero sugiere iniciar un juran frasco para detenerlo maldiciendo.. ",
+    " airDate ": " 1992-02-13T00: 00: 00.000Z ",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTIwODIyMjAzOV5BMl5BanBnXkFtZTgwNTk4NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 17,
+    "name": "Homer at the Bat",
+    "rating": 8.6,
+    "description": "Homer and his co-workers qualify for the plant softball team's league final, but Mr. Burns hires nine professional MLB players in order to win a $1 million bet.",
+    "airDate": "1992-02-20T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTY2MjE3N15BMl5BanBnXkFtZTgwMDU4NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 18,
+    "name": "Separate Vocations",
+    "rating": 8.2,
+    "description": "The results of a standardized test steer Bart in the direction of law and order at Springfield Elementary School. However, Lisa becomes so depressed by her results that she turns to juvenile delinquency.",
+    "airDate": "1992-02-27T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDg4NDg4Ml5BMl5BanBnXkFtZTgwMjU1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 19,
+    "name": "Dog of Death",
+    "rating": 7.7,
+    "description": "The Simpsons wind up regretting paying for an expensive surgery for Santa's Little Helper. He then runs away from home, winds up in the animal shelter, and is adopted by Mr. Burns to become an attack dog.",
+    "airDate": "1992-03-12T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTg5MzMyN15BMl5BanBnXkFtZTgwNDA5NDQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 20,
+    "name": "Colonel Homer",
+    "rating": 7.9,
+    "description": "Homer becomes the manager of a beautiful young country singer and finds himself almost attracted to her, sparking Marge's jealousy.",
+    "airDate": "1992-03-26T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjc1MzY2MjgyNF5BMl5BanBnXkFtZTgwODM3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 21,
+    " name ": " Viudo negro ",
+    " valoración ": 8.2,
+    " description ": " Sideshow Bob sale de la cárcel y planea vengarse de Bart, casándose con su tía Selma y matándola " . ,
+    " airDate ": " 1992-04-25T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2Mjc0NTQ3OF5BMl5BanBnXkFtZTgwMjI3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 22,
+    " name ": " The Otto Show ",
+    " calificación ": 7.7,
+    " Descripción ": "Después de Otto pierde su trabajo como conductor de autobús escolar porque él no tiene una licencia, Bart convence a Homer y Marge permiten estancia Otto con ellos hasta que vuelva sobre sus pies ",
+    " airDate ": " 1992-04-22T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNjkyMDE5NzQ1Ml5BMl5BanBnXkFtZTgwOTg0NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 3,
+    " episodio ": 23,
+    " name ": " El amigo de Bart se enamora ",
+    " calificación ": 7.7,
+    "description": "Milhouse falls in love with Samantha, a new transfer student, and Bart becomes jealous of all the time they are spending together. Meanwhile, Homer orders a subliminal weight loss tape, but is given a vocabulary builder by mistake.",
+    "airDate": "1992-05-06T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNTkxMTY0MjheQTJeQWpwZ15BbWU4MDY0NzU0NjIx._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 3,
+    "episode": 24,
+    "name": "Brother, Can You Spare Two Dimes?",
+    "rating": 8.2,
+    "description": "After Homer \"wins\" a $2000 settlement with the plant for radiation affecting his sperm count, his brother Herb comes to Springfield with an idea that could help him get his fortune back.",
+    "airDate": "1992-08-26T23:00:00.000Z",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTgwNjUzM15BMl5BanBnXkFtZTgwOTE3NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 1,
+    " nombre ": " Kamp Krusty ",
+    " calificación ": 8.4,
+    " description ": " Bart y Lisa se van de verano al campamento para niños de Krusty, pero en lugar de conocer a Krusty, conocen a su sustituto contador de frijoles, el Sr. Black. Con sus hijos fuera, Homer y Marge disfrutan de un verano romántico, pero Bart y Lisa se ponen a trabajar haciendo mercancía de mala calidad, hasta que Krusty regresa y arregla las cosas, llevando a los niños a Tijuana. ",
+    " airDate ": " 1992-09-23T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNzQyN2NjOTItZjc2MC00YzE4LTllZjEtZmQzNDYzMWExNGY4XkEyXkFqcGdeQXVyNj1TUM200 .
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 2,
+    " name ": " Un tranvía llamado Marge ",
+    " calificación ": 8.1,
+    " description ": " Marge gana el papel principal en una producción musical de \" A Streetcar Named Desire \ ", en la que Ned Flanders interpreta a Stanley Kowalski. Marge se enfurece por la brutalidad e insensibilidad de Homer durante la preproducción, hasta que ve la obra y se lo revela Marge que ha captado su significado. Mientras ensaya, Marge mete a Maggie en la guardería Ayn Rand, donde inmediatamente le quitan el chupete, y como \ " The Great Escape \" , debe luchar para recuperarlo. ",
+    " airDate ": " 1992-09-30T23: 00: 00.000Z ",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjQ3YWEzODEtNmE2Ny00NWU0LTkzNWQtZjM2ZjI5YTFhZDhlXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 3,
+    "name": "Homer the Heretic",
+    "rating": 9,
+    " description ": " Después de faltar a la iglesia una semana, Homer decide que nunca volverá. Sin embargo, cuando ocurre una calamidad, se necesitan los esfuerzos combinados de varias personas de diferentes religiones para salvarlo ",
+    " airDate ": " 1992-10-07T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxNDc2ODg0NF5BMl5BanBnXkFtZTgwMzk5NjA1MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 4,
+    "name": "Lisa the Beauty Queen",
+    "rating": 7.8,
+    "description": "Lisa enters the Little Miss Springfield pageant.",
+    "airDate": "1992-10-14T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2NmY2YzYWQtYWIwOC00MzY4LThjMTctMzJkYzVmZmRiZDE3XkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 5,
+    " name ": " Treehouse of Horror III ",
+    " calificación ": 8.4,
+    " description ": " Un muñeco malvado Krusty el Payaso hace la vida un infierno para los Simpson, Marge es capturada por un simio gigante que se enamora de ella, y Bart resucita a los muertos sin darse cuenta. ",
+    " airDate ": " 1992-10-29T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MTE3NzAwMl5BMl5BanBnXkFtZTgwNzc1NzQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 6,
+    " name ": " Itchy & Scratchy: The Movie ",
+    " valoración ": 8.2,
+    " description ": " Hacer una broma de más le cuesta a Bart la oportunidad de ver la película Itchy and Scratchy ",
+    "airDate": "1992-11-03T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2I1Nzk0Y2MtYTE2Yy00ZWFjLWFlNzQtNDllMjQ0OWY2NzI4XkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 7,
+    "name": "Marge Gets a Job",
+    "rating": 7.8,
+    " description ": " Marge acepta un trabajo en la planta nuclear para ayudar a pagar la reparación de los cimientos de la casa, y el Sr. Burns está enamorado de ella. ",
+    " airDate ": " 1992-11-05T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BN2IwM2FmZWEtYzdkMi00MTI3LWE1M2YtY2QzODIxMjlkNzRjXkEyXkFqcGdeQXVyNjcwM2.zE.zE_PG_XVyNjcw_200.zE .
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 8,
+    "name": "New Kid on the Block",
+    "rating": 8.2,
+    "description": "Bart finds himself attracted to his new 15-year-old neighbor, Laura. Meanwhile, Homer sues an All-You-Can-Eat buffet.",
+    "airDate": "1992-11-12T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWI0MjIzYmUtNzlmYi00ODUxLTkxMTktNDExMzBkNzQ0OTk1XkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 9,
+    "name": "Mr. Plow",
+    "rating": 8.8,
+    "description": "Homer buys a truck with an attached snow plow after he destroys his car, and to pay for it, he starts a snow shoveling business, calling himself Mr. Plow. It all goes off without a hitch, until he finds himself in competition with The Plow King, a.k.a. Barney Gumbel. Now begins the winter of discontent.",
+    "airDate": "1992-11-19T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MDQwNzM2MV5BMl5BanBnXkFtZTgwMzk1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 10,
+    "name": "Lisa's First Word",
+    "rating": 8.5,
+    " description ": " Mientras intentan convencer a Maggie para que diga su primera palabra, Homer y Marge hablan sobre cómo Lisa habló la suya ",
+    " airDate ": " 1992-12-03T00: 00: 00.000Z ",
+    " ThumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNjc4ZGFjMzAtYzE2Ni00ZDFkLWE2YjktMWYyZGFkZGJiMjExXkEyXkFqcGdeQXVyNjQwMTkxMDU@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 11,
+    " name ": " Triple Bypass de Homer ",
+    " valoración ": 8.7,
+    " description ": " Años de malos hábitos alimenticios alcanzan a Homer cuando sufre un ataque cardíaco masivo. La familia no puede pagar la operación de triple bypass que necesita del Dr. Hibbert, por lo que acuden a un curandero de descuentos llamado Nick Riviera. ",
+    " airDate ": " 1993-01-10T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BOTEzMTAwYzAtZWQ3Ny00NmRhLWIwNjctNDc1OWIzYTA2OWI4XkEyXkFqcGdeQXVyNjYyXkFqcGdeQXVyNjYy@jpg_12_CR1_UX .
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 12,
+    " name ": " Marge contra el monorraíl ",
+    " valoración ": 9,
+    "description": "After receiving a considerable donation of money, the people of Springfield decide what to spend it on. Enter Lyle Langley, a jocular salesman who gets Springfield hooked on a monorail system. After the monorail is up and running, and with Homer as the conductor, it's time for the maiden voyage. Little do the people know they have just boarded a one-way train to Hell.",
+    "airDate": "1993-01-14T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmMyNzgwNDYtN2YzMS00MmViLTgwYWEtOTllYzU0Mzk3OGNjXkEyXkFqcGdeQXVyNjQwMTkxMDU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 13,
+    "name": "Selma's Choice",
+    "rating": 8,
+    " description ": " Selma comienza a sentirse melancólica, pero después de llevar a Bart y Lisa a Duff Gardens, cambia de opinión ",
+    " airDate ": " 1993-01-21T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMGIyZTIyOTctYjY0MS00OWY1LTkxMjAtYWZlYjAxNGU3NzIxXkEyXkFqcGdeQXVyNjcwM00.zEz_CR_VyNjcw_UJ200.zEz_PG "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 14,
+    " name ": " Hermano del mismo planeta ",
+    " calificación ": 8.1,
+    " description ": " Después de que Homer se olvida de recoger a Bart de la práctica de fútbol, ??Bart se une a un programa de mentores llamado Big Brothers presentándose como huérfano, y se le asigna un hermano mayor llamado Tom. Cuando Homer se entera, se une al programa también como un hermano mayor. ",
+    " airDate ": " 1993-02-04T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BZjlkZDk0YTEtODVkNy00MjE1LTg1MWUtZWZhNzg2OTZhMTA4XkEyXkFqcGdeQXVyNjcwM00.zEz_CR0 "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 15,
+    " name ": " Amo a Lisa ",
+    " valoración ": 8.3,
+    " description ": " Sintiendo lástima por Ralph, Lisa le envía una tarjeta de San Valentín. Después de haberse enamorado de ella, Ralph invita a Lisa a ir a ver el programa de Krusty el payaso. Ella acepta pero después de que Krusty les pregunta si son novio y novia, Lisa le hace saber a Ralph que solo quiere que sean amigos ",
+    " airDate ": " 1993-02-11T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDA4NDM4NF5BMl5BanBnXkFtZTgwMTk5NjA1MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 16,
+    " name ": " Duffless ",
+    " valoración ": 8.3,
+    " description ": " Después de que Homer es arrestado por DUI y pierde su licencia de conducir, lo someten a la prueba definitiva cuando Marge lo presiona para que deje la cerveza durante un mes ",
+    " airDate ": " 1993-02-18T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNGI2NmYwYTctMDNkZi00MjM1LTgwZmYtYjMyMzI2MTQyYzRlXkEyXkFqcGdeQXVyNj1cw.UI2MTQyYzRlXkEyXkFqcGdeQXVyNj1Cw.UX.j .
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 17,
+    " name ": " Última salida a Springfield ",
+    " valoración ": 9,
+    "description": "Homer becomes union leader and leads a company strike when Mr. Burns takes away the company dental plan.",
+    "airDate": "1993-03-11T00:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWRiNjI0OTMtZTk0MS00NmIyLThjOGQtOGZjYTk1OTkyYTZkXkEyXkFqcGdeQXVyNjYyODY4NDU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 18,
+    " name ": " Así que ha llegado a esto: The Simpsons Clip Show ",
+    " valoración ": 7.2,
+    " description ": " Homer le gasta una serie de bromas (infantiles) prácticas a Bart. Para vengarse, Bart usa un mezclador de pintura en una ferretería local para agitar una lata de cerveza de Homer. Homer abre la lata, lo que resulta en una enorme explosión que hiere gravemente al patriarca de los Simpson. ",
+    " airDate ": " 1993-03-31T23: 00: 00.000Z ",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmVlZjM1N2QtNjZhZC00OTcwLWFiOWMtOTdhZTg0Njk5YmZmXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    "episode": 19,
+    "name": "The Front",
+    "rating": 8.1,
+    " description ": " Homer regresa a la escuela después de que se revela que nunca se graduó. Mientras tanto, Bart y Lisa escriben fantasmas para Itchy & Scratchy usando el nombre de Abe. ",
+    " airDate ": " 1993-05-01T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BN2U3ZjE5ODktNzBhNS00OTQ5LTllMDYtYmMxYjdjZTkxOWNhXkEyXkFqcGdeQXVyNjcwMzEzEz1_200.j "
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 20,
+    " name ": " Whacking Day ",
+    " calificación ": 8.1,
+    " description ": " Marge intenta educar a Bart en casa después de que lo expulsan de la Primaria Springfield. Mientras tanto, Lisa protesta por una bárbara festividad local centrada en matar serpientes a palos. ",
+    " airDate ": " 1993-05-08T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BYjRhMTJhOTctNTUzNC00Mjk2LTg4NzAtMTgzNTlhMmRmMDM5XkEyXkFqcGdeQXVyNj1T_UM.j.j .
+  },
+  {
+    " temporada ": 4,
+    " episodio ": 21,
+    " name ": " Marge encadenada ",
+    " calificación ": 7.7,
+    "description": "A misunderstanding leads to Marge being imprisoned for shoplifting. In her absence, the family, and eventually, the town itself, descend into chaos.",
+    "airDate": "1993-05-29T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGVlOTQyZDctMDE0Zi00ZGYwLTgwOWMtODYyYTg5NjM0MDY5XkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 4,
+    " episodio ": 22,
+    " name ": " Krusty consigue Kancelled ",
+    " valoración ": 8.2,
+    " description ": " Un bombardeo publicitario masivo anuncia la llegada de algo llamado \" Gabbo \ " . Eventualmente, Gabbo se revela como un muñeco al estilo Howdy Doody, cuyo éxito sensacional hace que el show de Krusty the Clown sea cancelado. " ,
+      " airDate ": " 1993-06-19T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BNjczZDFhOTItZTc2OS00MTYxLThlODktNzI0ODFhNTZhNTEzXkEyXkFqcGdeQXVyNjcwMzEzEz1_200.j "
+  },
+  {
+    " temporada ": 5,
+    " episodio ": 1,
+    " name ": " Cuarteto de barbería de Homer ",
+    " calificación ": 8.5,
+    "description": "After the kids find a record with Homer's picture on it, he recalls the story of how he achieved fame in the 1980s with his barbershop quartet, The Be Sharps.",
+    "airDate": "1993-10-02T23:00:00.000Z",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjFiYjliNGYtMjk5Mi00OGI4LWIyZmItODQ2YjhmOGE2ZjljXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 5,
+    "episode": 2,
+    " name ": " Cape Feare ",
+    " valoración ": 9,
+    " description ": " Después de ser liberado de prisión en libertad condicional, Sideshow Bob conspira para asesinar a Bart. ",
+    " airDate ": " 1993-10-09T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BOGQ4ZjYxOTgtYTM1MS00MzczLWE1YjAtYzIwNjIyMzg5MzJmXkEyXkFqcGdeQXVyNDYy00.J12_CR_pg "
+  },
+  {
+    " temporada ": 5,
+    " episodio ": 3,
+    " name ": " Homer va a la universidad ",
+    " valoración ": 8.6,
+    " description ": " Cuando una inspección sorpresa de la planta de energía nuclear revela que Homer no está calificado para hacer su trabajo, se ve obligado a ir a la universidad ",
+    " airDate ": " 1993-10-13T23: 00: 00.000Z ",
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU4ZmM4YzYtOWFlMC00ZDYxLWFhZTYtOGU0MDVmYzNlZmM0XkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_UX200_CR0,0,200,112_AL_.jpg"
+  },
+  {
+    "season": 5,
+    "episode": 4,
+    "name": "Rosebud",
+    "rating": 8.9,
+    "description": "Mr. Burns goes on a desperate quest to recover his cherished childhood toy Bobo, a bear which is now in Maggie's possession.",
+    " airDate ": " 1993-11-14T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BN2U1ZTY4NjctZWQ3NC00MWNhLWFlODgtOWFkNTkxMGQwNDZhXkEyXkFqcGdeQXVyNjcwM00.jEzM1,02"
+  },
+  {
+    " temporada ": 5,
+    " episodio ": 5,
+    " name ": " Treehouse of Horror IV ",
+    " valoración ": 8.7,
+    " description ": " Homer vende su alma al diablo por una rosquilla, Bart se enfrenta a un gremlin en el costado del autobús escolar que solo él puede ver, y la familia descubre que el Sr. Burns es un vampiro ",
+    " airDate ": " 1993-10-27T23: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MzIxMjc2NF5BMl5BanBnXkFtZTgwNzU1NTQ2MjE@._V1_UX200_CR0,0,200,112_AL_.jpg "
+  },
+  {
+    " temporada ": 5,
+    " episodio ": 6,
+    " name ": " Marge on the Lam ",
+    " calificación ": 8.1,
+    " description ": " Una noche de chicas se convierte en una persecución a alta velocidad cuando Marge se entera de que su amiga está conduciendo un coche robado. ",
+    " airDate ": " 1993-11-21T00: 00: 00.000Z ",
+    " thumbnailUrl ": " https://images-na.ssl-images-amazon.com/images/M/MV5BZGEyOWMxMGItY2I4MC00MTVmLWFjZjctOTUzY2ZlYWRlZDRhXkEyXkFqcGdeQXVyNjcwM00,11_V1_PG_PG"
+  }
+]
